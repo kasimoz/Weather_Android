@@ -1,0 +1,79 @@
+<resources>
+<string name="app_name">Hava Durumu</string>
+<string name="title_home">Detay</string>
+<string name="title_dashboard">Bugün</string>
+<string name="title_notifications">Ayarlar</string>
+<string name="title_language">Dil</string>
+<string name="title_unit">Sıcaklık</string>
+<string name="feels_like">Hissedilen</string>
+<string name="wind">Rüzgâr</string>
+<string name="humidity">Nem</string>
+<string name="pressure">Basınç</string>
+<string name="celsius_units">metric</string>
+<string name="fahrenheit_units">imperial</string>
+<string name="kelvin_units">default</string>
+<string name="celsius_">Selsius °C</string>
+<string name="fahrenheit_">Fahrenhayt °F</string>
+<string name="kelvin_">Kelvin °K</string>
+<string name="appId">c70bb9a5d2918256054bdcb02aa50120</string>
+
+<string-array name="Symblos">
+    <item>°C</item>
+    <item>°F</item>
+    <item>°K</item>
+</string-array>
+
+<string-array name="Units_Value">
+    <item>metric</item>
+    <item>imperial</item>
+    <item>default</item>
+</string-array>
+
+<string-array name="Language_Code">
+    <item>ar</item>
+    <item>de</item>
+    <item>el</item>
+    <item>en</item>
+    <item>fa</item>
+    <item>fr</item>
+    <item>he</item>
+    <item>hi</item>
+    <item>hr</item>
+    <item>it</item>
+    <item>ja</item>
+    <item>kr</item>
+    <item>no</item>
+    <item>nl</item>
+    <item>pl</item>
+    <item>ro</item>
+    <item>ru</item>
+    <item>sp</item>
+    <item>sr</item>
+    <item>tr</item>
+    <item>zh</item>
+</string-array>
+
+<string-array name="Language">
+    <item>Arapça</item>
+    <item>Almanca</item>
+    <item>Yunanca</item>
+    <item>İngilizce</item>
+    <item>Farsça</item>
+    <item>Fransızca</item>
+    <item>İbranice</item>
+    <item>Hintçe</item>
+    <item>Hırvatça</item>
+    <item>İtalyanca</item>
+    <item>Japonca</item>
+    <item>Korece</item>
+    <item>Norveççe</item>
+    <item>Felemenkçe</item>
+    <item>Lehçe</item>
+    <item>Portekizce</item>
+    <item>Rusça</item>
+    <item>İspanyolca</item>
+    <item>Sırpça</item>
+    <item>Türkçe</item>
+    <item>Basitleştirilmiş Çince</item>
+</string-array>
+</resources>

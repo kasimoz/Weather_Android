@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4373bb</color>
+    <color name="colorPrimaryDark">#255DB1</color>
+    <color name="colorAccent">#c4ddec</color>
+    <color name="colorClearSky">#4373BB</color>
+    <color name="colorFewClouds">#2aabd2</color>
+    <color name="colorScatteredClouds">#356075</color>
+    <color name="colorBrokenClouds">#0a0c32</color>
+    <color name="colorShowerRain">#043039</color>
+    <color name="colorRain">#96c4e5</color>
+    <color name="colorThunderstorm">#3f464e</color>
+    <color name="colorSnow">#A9B3C4</color>
+    <color name="colorMist">#D2BF9B</color>
+    <color name="colorShadow">#565C66</color>
+    <color name="colorNormalChipBackground">#E3F6FF</color>
+    <color name="colorSelectedChipBackground">#FF9800</color>
+    <color name="colorChipRipple">#D68104</color>
+    <color name="colorNormalChipText">#222C4E</color>
+    <color name="colorSelectedChipText">#FFFFFF</color>
+    <color name="colorYellow">#FFEB3B</color>
+</resources>

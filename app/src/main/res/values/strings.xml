@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="title_home">Details</string>
+    <string name="title_dashboard">Today</string>
+    <string name="title_notifications">Settings</string>
+    <string name="title_language">Language</string>
+    <string name="title_unit">Temperature</string>
+    <string name="feels_like">Feels Like</string>
+    <string name="wind">Wind</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="celsius_units">metric</string>
+    <string name="fahrenheit_units">imperial</string>
+    <string name="kelvin_units">default</string>
+    <string name="celsius_">Celsius °C</string>
+    <string name="fahrenheit_">Fahrenheit °F</string>
+    <string name="kelvin_">Kelvin °K</string>
+    <string name="appId">c70bb9a5d2918256054bdcb02aa50120</string>
+
+    <string-array name="Symblos">
+        <item>°C</item>
+        <item>°F</item>
+        <item>°K</item>
+    </string-array>
+
+    <string-array name="Units_Value">
+        <item>metric</item>
+        <item>imperial</item>
+        <item>default</item>
+    </string-array>
+    <string-array name="Language_Code">
+        <item>ar</item>
+        <item>de</item>
+        <item>el</item>
+        <item>en</item>
+        <item>fa</item>
+        <item>fr</item>
+        <item>he</item>
+        <item>hi</item>
+        <item>hr</item>
+        <item>it</item>
+        <item>ja</item>
+        <item>kr</item>
+        <item>no</item>
+        <item>nl</item>
+        <item>pl</item>
+        <item>ro</item>
+        <item>ru</item>
+        <item>sp</item>
+        <item>sr</item>
+        <item>tr</item>
+        <item>zh</item>
+    </string-array>
+    <string-array name="Language">
+        <item>Arabic</item>
+        <item>German</item>
+        <item>Greek</item>
+        <item>English</item>
+        <item>Persian</item>
+        <item>French</item>
+        <item>Hebrew</item>
+        <item>Hindi</item>
+        <item>Croatian</item>
+        <item>Italian</item>
+        <item>Japanese</item>
+        <item>Korean</item>
+        <item>Norwegian</item>
+        <item>Dutch</item>
+        <item>Polish</item>
+        <item>Portuguese</item>
+        <item>Russian</item>
+        <item>Spanish</item>
+        <item>Serbian</item>
+        <item>Turkish</item>
+        <item>Chinese</item>
+    </string-array>
+</resources>
